@@ -1,2 +1,2 @@
-# Amazon_Review_Classification
-Amazon Review Classification
+# Amazon_Review_Case_Study
+Amazon_Review_Case_Study
